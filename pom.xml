@@ -12,13 +12,13 @@
       <dependency>
           <groupId>com.hazelcast</groupId>
           <artifactId>hazelcast</artifactId>
-          <version>3.2.3</version>
+          <version>3.12.13</version>
           <scope>provided</scope>
       </dependency>
       <dependency>
           <groupId>com.hazelcast</groupId>
           <artifactId>hazelcast-client</artifactId>
-          <version>3.2.3</version>
+          <version>3.12.13</version>
           <scope>provided</scope>
 
       </dependency>
